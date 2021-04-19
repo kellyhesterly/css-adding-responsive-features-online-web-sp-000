@@ -1,12 +1,10 @@
-breakpoint {
-  1180px
-}
+
 
 .wrapper {
   width: 90%;
 }
 
-@media only screen (and min-width: 1180px) {
+@media only screen (and max-width: 1180px) {
   .wrapper {width: 90%;}
 }
 
