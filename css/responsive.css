@@ -6,5 +6,7 @@
 
 #social {
   position: absolute;
-  width: automatic 82px, 4px
+  width: automatic; 
+  top: 82px;
+  right: 4px;
 }
