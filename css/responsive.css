@@ -1,17 +1,17 @@
 
 
-@media only screen (and max-width: 1180px) {
+@media only screen and (max-width: 1180px) {
   .wrapper {width: 90%;}
 }
 
 #social {
   position: absolute;
-  width: automatic;
+  width: auto;
   top: 82px;
   right: 4px;
 }
 
-@media only screen (and max-width: 900px) {
+@media only screen and (max-width: 900px) {
   .body {font-size: 85%;}
 }
 
@@ -34,7 +34,7 @@
   top: 72px;
 }
 
-@media only screen (and max-width: 750px){
+@media only screen and (max-width: 750px){
   #navbar nav a {font-size: 0.9em;}
 }
 
